@@ -22,4 +22,4 @@ All modifications are surrounded by comment like:
         }
         //merged by HP ended 
 ```
-You can just search key words "HP" to find where these modifications.
+You can just search key words "HP" to find where are these modifications.
